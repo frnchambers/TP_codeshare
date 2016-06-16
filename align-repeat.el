@@ -1,4 +1,4 @@
-;;;;;;;;;;;;;;;;;;; align properlly ;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;; align properly ;;;;;;;;;;;;;;;;;;
 (defun align-repeat (start end regexp)
     "Repeat alignment with respect to 
      the given regular expression."
