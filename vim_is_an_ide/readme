@@ -1,0 +1,7 @@
+The vimdir_mt contains the plugins.
+Its easier to to overwite your .vim directory with it.
+
+After copying vimrc_mt to .vimrc, open the .vimrc in vim and run ":PluginInstall"
+
+Behold super vim.
+
