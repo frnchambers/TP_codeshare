@@ -1,11 +1,11 @@
 /******************************************************
  * Name    : errorMessages.hpp
- * Author  : Kevin Mooney
+ * Author  : Kevin Mooney smells
  * Created : 17/06/16
  * Updated :
  *
  * Description:
- *    Macros for handeling errors 
+ *    Macros for handling errors 
  ******************************************************/
 
 #include <stdexcept>
